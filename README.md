@@ -1,4 +1,4 @@
-# HVTHhandler
+# HVTHandler
 Utility methods that provide advanced functionality when using Runnables on Android.
 
 Sometimes you want to post a runnable and wait until it finishes, or even get a return value. This type of funcionlity and even more advanced features can be provided by Future and Executors. However, it's quite common that you just want to stick with Handlers, HandlerThread in order to do simpler tasks. These methods will make your life easier.
